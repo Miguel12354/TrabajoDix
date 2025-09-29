@@ -10,3 +10,5 @@
 ## Página oficial:
 ## https://www.uci.org/
 ## ![alt text](descarga.jpg)
+## Conclusión:
+## Hace falta mucha dedicación , ganas y tiempo para llegar a ser profesional elite
