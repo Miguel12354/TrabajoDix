@@ -7,3 +7,4 @@
 ## 1.Prueba en línea de un día. Las pruebas de este tipo de mayor éxito se denominan clásicas y dentro ellas destacan los llamados monumentos del ciclismo.
 ## 2.Prueba por etapas. Se disputan en un mínimo de dos días con una clasificación por tiempos. Se compone de etapas en línea y etapas contrarreloj
 ## 3.Mundiales
+## https://www.uci.org/
