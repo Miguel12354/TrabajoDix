@@ -8,3 +8,4 @@
 ## 2.Prueba por etapas. Se disputan en un mínimo de dos días con una clasificación por tiempos. Se compone de etapas en línea y etapas contrarreloj
 ## 3.Mundiales
 ## https://www.uci.org/
+## ![alt text](descarga.jpg)
